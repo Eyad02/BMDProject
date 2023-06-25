@@ -25,11 +25,10 @@
     <nav class="navbar">
         <a href="#home">home</a>
         <a href="#about">about</a>
-        <a href="#services">services</a>
+        
         <a href="#doctors">doctors</a>
-        <a href="#appointment">appointment</a>
-        <a href="#review">review</a>
-        <a href="#blogs">blogs</a>
+        
+        
     </nav>
 
     <div id="menu-btn" class="fas fa-bars"></div>
@@ -48,7 +47,11 @@
 
     <div class="content">
         <h3>we take care of your healthy life</h3>
-        <p> A person who has good physical health is likely to have bodily functions and processes working at their peak.</p>
+        <p>We are a leading hospital specializing in orthopedic surgeries. Our state-of-the-art facilities and experienced staff ensure that our patients receive the best possible care.</p>
+      <p>Contact us today to schedule a consultation and learn more about our services.</p>
+      
+        
+      
         <a href="login.php" class="btn" > Login <span class="fas fa-chevron-right"></span> </a>
     </div>
 
@@ -102,8 +105,11 @@
 
         <div class="content">
             <h3>take the world's best quality treatment</h3>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure ducimus, quod ex cupiditate ullam in assumenda maiores et culpa odit tempora ipsam qui, quisquam quis facere iste fuga, minus nesciunt.</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus vero ipsam laborum porro voluptates voluptatibus a nihil temporibus deserunt vel?</p>
+            <p>Orthopedic Surgery Hospital was founded in 2000 by Dr. John Smith, a renowned orthopedic surgeon. Our mission is to provide the highest quality orthopedic care to our patients, using the latest technologies and techniques.</p>
+            <p>We are committed to treating our patients with compassion, respect, and dignity. Our values include excellence, integrity, teamwork, and innovation.</p>
+            <li>Location: 123 Main Street, Anytown, USA</li>
+            <li>Phone: 555-1234</li>
+            <li>Email: info@orthopedicsurgeryhospital.com</li>
             <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span> </a>
         </div>
 
@@ -181,7 +187,7 @@
 
         <div class="box">
             <img src="image/doc-1.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Hana</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -194,7 +200,7 @@
 
         <div class="box">
             <img src="image/doc-2.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Mahmoud</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -206,7 +212,7 @@
 
         <div class="box">
             <img src="image/doc-3.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Rasha</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -218,7 +224,7 @@
 
         <div class="box">
             <img src="image/doc-4.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Ghada</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -230,7 +236,7 @@
 
         <div class="box">
             <img src="image/doc-5.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Mustafa</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -242,7 +248,7 @@
 
         <div class="box">
             <img src="image/doc-6.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Bagoori</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -254,7 +260,7 @@
         </div>
         <div class="box">
             <img src="image/doc-7.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Hanan</h3>
             <span>intern doctor</span>
             <div class="share">
                 
@@ -265,7 +271,7 @@
         </div>
         <div class="box">
             <img src="image/doc-8.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Yassin</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -276,7 +282,7 @@
         </div>
         <div class="box">
             <img src="image/doc-9.jpg" alt="">
-            <h3>win coder</h3>
+            <h3>Shawky</h3>
             <span>expert doctor</span>
             <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
